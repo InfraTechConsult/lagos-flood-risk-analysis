@@ -3,6 +3,8 @@ GIS analysis of flood risk impact on road infrastructure in Lagos using OpenStre
 
 # Lagos Flood Risk & Road Accessibility Analysis
 
+![Flood Risk Map](flood_road_risk_map.png)
+
 Infrastructure GIS case study evaluating flood exposure risk affecting road infrastructure in Lagos, Nigeria.
 
 Developed by **InfraTech Consulting**.
