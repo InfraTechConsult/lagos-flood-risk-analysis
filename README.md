@@ -88,6 +88,6 @@ Disaster preparedness analysis
 
 # Author
 
-InfraTech Consulting
+InfraTech Consult,
 Infrastructure Engineering & Geospatial Analysis
 
